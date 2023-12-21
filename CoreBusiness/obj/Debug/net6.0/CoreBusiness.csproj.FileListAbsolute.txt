@@ -1,0 +1,12 @@
+D:\Supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net6.0\CoreBusiness.deps.json
+D:\Supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net6.0\CoreBusiness.dll
+D:\Supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net6.0\CoreBusiness.pdb
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.csproj.AssemblyReference.cache
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.AssemblyInfoInputs.cache
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.AssemblyInfo.cs
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.csproj.CoreCompileInputs.cache
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.dll
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\refint\CoreBusiness.dll
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\CoreBusiness.pdb
+D:\Supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net6.0\ref\CoreBusiness.dll
